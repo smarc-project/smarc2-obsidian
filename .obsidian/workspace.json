@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "13ebe8e18454d224",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b9ff259d0ca5ffe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b6e788b51f74bb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3d0aa38fdbcce81",
+    "type": "split",
+    "children": [
+      {
+        "id": "47377ea88fafbe74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be2d70019c31d1d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "28d4c07f86c0e389",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "452ee31dd09b929f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "502d3bf514733d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f19116cd907a6f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6606452b6d1bd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vehicles.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Vehicles"
+            }
+          },
+          {
+            "id": "e66969780388fa3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vehicles.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Vehicles"
+            }
+          },
+          {
+            "id": "a282acf095b236a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a91491e9041bf160",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4d93ec7a6d41f9b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vehicles.base",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vehicles"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b6e788b51f74bb4",
+  "lastOpenFiles": [
+    "Vehicles.base",
+    "People.base",
+    "20 Vehicles/M350.md",
+    "00 People/Ozer.md",
+    "00 People/Ivan.md",
+    "01 Projects/Alars.md",
+    "99 Templates/Project-template.md",
+    "01 Projects",
+    "Home.md",
+    "99 Templates/People-template.md",
+    "99 Templates/Paper-template.md",
+    "99 Templates/Vehicle-template.md",
+    "02 Vehicles/M350.md",
+    "99 Templates",
+    "30 Roadmaps",
+    "20 Vehicles",
+    "10 Papers",
+    "00 People"
+  ]
+}

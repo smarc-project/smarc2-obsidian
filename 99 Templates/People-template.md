@@ -1,0 +1,6 @@
+---
+aliases:
+vehicles:
+papers:
+projects:
+---

@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("20 Vehicles")
+    order:
+      - file.name
+      - Capabilities
+      - domain
+      - leader
+      - PeopleInvovled
+      - Sensors

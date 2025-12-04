@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "vehicles": "multitext",
+    "papers": "multitext",
+    "Capabilities": "multitext",
+    "Sensors": "multitext",
+    "PeopleInvovled": "multitext",
+    "projects": "multitext"
+  }
+}

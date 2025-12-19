@@ -6,5 +6,5 @@ vehicles:
   - "[[FC30]]"
 papers:
 projects:
-  - "[[Alars]]"
+  - "[[ALARS]]"
 ---

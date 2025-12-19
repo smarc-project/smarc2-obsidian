@@ -4,4 +4,6 @@ peopleInvovled:
 sensors:
 capabilities:
 domain:
+projects:
+type:
 ---

@@ -7,5 +7,5 @@ vehicles:
   - "[[SAM]]"
 papers:
 projects:
-  - "[[Alars]]"
+  - "[[ALARS]]"
 ---

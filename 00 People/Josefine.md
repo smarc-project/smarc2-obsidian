@@ -2,11 +2,11 @@
 aliases:
   - Josefine Severholt
 vehicles:
-  - LoLo
-  - Puffins
-  - Evolo
-  - Kuninganna
   - "[[SAM]]"
+  - "[[LoLo]]"
+  - "[[Puffins]]"
+  - "[[Evolo]]"
+  - "[[Kuninganna]]"
 papers:
 projects:
   - "[[SMaRC-SAM]]"

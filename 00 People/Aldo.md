@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Kaveh Najafian
+  - Aldo Terán Espinoza
 vehicles:
   - "[[LoLo]]"
   - "[[Evolo]]"
-  - "[[Puffins]]"
   - "[[Kuninganna]]"
 papers:
 projects:
   - "[[SMaRC-LoLo]]"
+  - "[[EDF-SEACURE]]"
   - "[[FMV Underwater Systems]]"
 ---

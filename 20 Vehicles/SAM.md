@@ -1,6 +1,7 @@
 ---
 leader: "[[Ivan]]"
 peopleInvovled:
+  - "[[Ivan]]"
 sensors:
 capabilities:
 domain:

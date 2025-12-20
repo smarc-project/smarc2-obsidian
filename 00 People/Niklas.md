@@ -2,10 +2,10 @@
 aliases:
   - Niklas Rolleberg
 vehicles:
-  - LoLo
-  - Puffins
-  - Evolo
-  - Kuninganna
+  - "[[LoLo]]"
+  - "[[Puffins]]"
+  - "[[Evolo]]"
+  - "[[Kuninganna]]"
 papers:
 projects:
   - "[[SMaRC-LoLo]]"

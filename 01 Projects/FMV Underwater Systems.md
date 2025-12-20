@@ -4,6 +4,7 @@ peopleInvovled:
   - "[[Niklas]]"
   - "[[Josefine]]"
   - "[[Kaveh]]"
+  - "[[Aldo]]"
 PI: "[[Jakob]]"
 projectCode: SCI-33381
 ---

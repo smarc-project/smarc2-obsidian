@@ -5,6 +5,7 @@ peopleInvovled:
   - "[[Clemens]]"
   - "[[Niklas]]"
   - "[[Kaveh]]"
+  - "[[Aldo]]"
 sensors:
   - Blue Robotics Bar30
   - Blue Robotics Celsius

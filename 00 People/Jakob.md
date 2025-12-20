@@ -2,9 +2,9 @@
 aliases:
   - Jakob Kuttenkeuler
 vehicles:
-  - LoLo
-  - Puffins
-  - Evolo
+  - "[[LoLo]]"
+  - "[[Puffins]]"
+  - "[[Evolo]]"
 papers:
 projects:
   - "[[SMaRC-LoLo]]"

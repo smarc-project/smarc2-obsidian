@@ -1,5 +1,5 @@
 ---
-leader: "[[Jakob]]"
+leader: "[[Clemens]]"
 peopleInvovled:
   - "[[Jakob]]"
   - "[[Clemens]]"

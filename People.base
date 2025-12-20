@@ -9,3 +9,8 @@ views:
       - papers
       - projects
       - vehicles
+    sort:
+      - property: vehicles
+        direction: DESC
+    columnSize:
+      note.projects: 386

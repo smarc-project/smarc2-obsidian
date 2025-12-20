@@ -6,6 +6,7 @@ peopleInvovled:
   - "[[Niklas]]"
   - "[[Josefine]]"
   - "[[Kaveh]]"
+  - "[[Aldo]]"
 sensors:
   - Norbit WBMS FLS Wide
   - Norbit WBMS Basic Long Range

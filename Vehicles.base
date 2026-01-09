@@ -11,3 +11,5 @@ views:
       - leader
       - PeopleInvovled
       - Sensors
+    columnSize:
+      note.domain: 145

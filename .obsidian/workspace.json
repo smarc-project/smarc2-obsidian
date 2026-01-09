@@ -11,10 +11,14 @@
             "id": "8b6e788b51f74bb4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/main.js",
+                "bFile": ".obsidian/plugins/obsidian-git/main.js",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: main.js  (Working Tree)"
             }
           }
         ]
@@ -160,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Vehicles"
             }
+          },
+          {
+            "id": "2a2db3a1d615f3d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,40 +190,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b6e788b51f74bb4",
+  "active": "2a2db3a1d615f3d9",
   "lastOpenFiles": [
-    "Vehicles.base",
-    "People.base",
-    "Home.md",
-    "20 Vehicles/Evolo.md",
     "20 Vehicles/Kuninganna.md",
-    "20 Vehicles/LoLo.md",
-    "20 Vehicles/M350.md",
-    "20 Vehicles/SAM.md",
+    "20 Vehicles/Frigates.md",
     "20 Vehicles/Puffins.md",
-    "01 Projects/SMaRC-SAM.md",
-    "01 Projects/SMaRC-LoLo.md",
-    "01 Projects/SHARCEX.md",
-    "01 Projects/KelpIT.md",
-    "01 Projects/FMV Underwater Systems.md",
-    "01 Projects/EDF-SEACURE.md",
-    "01 Projects/ALARS.md",
-    "00 People/Aldo.md",
-    "00 People/Clemens.md",
+    "Vehicles.base",
+    "20 Vehicles/Evolo.md",
+    "99 Templates/Vehicle-template.md",
+    "99 Templates/Project-template.md",
+    "99 Templates/People-template.md",
+    "99 Templates/Paper-template.md",
     "00 People/Ivan.md",
-    "00 People/Jakob.md",
-    "00 People/Josefine.md",
-    "00 People/Kaveh.md",
-    "00 People/Peter.md",
+    "00 People/Clemens.md",
+    "00 People/Aldo.md",
+    "Home.md",
+    "20 Vehicles/SAM.md",
     "00 People/Niklas.md",
-    "00 People/Ozer.md",
+    "Projects.base",
+    "People.base",
+    "20 Vehicles/Untitled.md",
+    "00 People/Untitled.md",
+    "01 Projects/SMaRC-Frigates.md",
+    "00 People/Kaveh.md",
+    "00 People/Julian.md",
+    "00 People/Josefine.md",
+    "01 Projects/SMaRC-LoLo.md",
+    "01 Projects/SMaRC-SAM.md",
+    "01 Projects/Alars.md",
+    "01 Projects/EDF-SEACURE.md",
+    "01 Projects/FMV Underwater Systems.md",
+    "01 Projects/KelpIT.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "99 Templates/Paper-template.md",
-    "99 Templates/People-template.md",
     "01 Projects 1",
     "01 Projects",
     "99 Templates",

@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("01 Projects")
+    order:
+      - file.name
+      - PeopleInvovled
+    sort:
+      - property: file.basename
+        direction: ASC

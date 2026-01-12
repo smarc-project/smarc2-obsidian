@@ -11,14 +11,13 @@
             "id": "8b6e788b51f74bb4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "bases",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-git/main.js",
-                "bFile": ".obsidian/plugins/obsidian-git/main.js",
-                "aRef": ""
+                "file": "People.base",
+                "viewName": "Table"
               },
-              "icon": "diff",
-              "title": "Diff: main.js  (Working Tree)"
+              "icon": "lucide-table",
+              "title": "People"
             }
           }
         ]
@@ -194,8 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2db3a1d615f3d9",
+  "active": "8b6e788b51f74bb4",
   "lastOpenFiles": [
+    "00 People/Laura.md",
+    "People.base",
+    "00 People/Josefine.md",
+    "99 Templates/People-template.md",
+    "01 Projects/KelpIT.md",
     "20 Vehicles/Kuninganna.md",
     "20 Vehicles/Frigates.md",
     "20 Vehicles/Puffins.md",
@@ -203,7 +207,6 @@
     "20 Vehicles/Evolo.md",
     "99 Templates/Vehicle-template.md",
     "99 Templates/Project-template.md",
-    "99 Templates/People-template.md",
     "99 Templates/Paper-template.md",
     "00 People/Ivan.md",
     "00 People/Clemens.md",
@@ -212,19 +215,14 @@
     "20 Vehicles/SAM.md",
     "00 People/Niklas.md",
     "Projects.base",
-    "People.base",
     "20 Vehicles/Untitled.md",
     "00 People/Untitled.md",
     "01 Projects/SMaRC-Frigates.md",
     "00 People/Kaveh.md",
     "00 People/Julian.md",
-    "00 People/Josefine.md",
     "01 Projects/SMaRC-LoLo.md",
     "01 Projects/SMaRC-SAM.md",
     "01 Projects/Alars.md",
-    "01 Projects/EDF-SEACURE.md",
-    "01 Projects/FMV Underwater Systems.md",
-    "01 Projects/KelpIT.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "01 Projects 1",

@@ -12,4 +12,5 @@ projects:
   - "[[SMaRC-SAM]]"
   - "[[SMaRC-LoLo]]"
   - "[[FMV Underwater Systems]]"
+  - "[[KelpIT]]"
 ---
